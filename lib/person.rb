@@ -4,21 +4,21 @@ class person
 
 end
 
-def name=(name)
+  def name=(name)
 
-@name = name
-
-end
-
-def job
-
-@job
+  @name = name
 
 end
 
-def job=(job)
+  def job
 
-@job = job
+  @job
+
+end
+
+  def job=(job)
+
+  @job = job
 
 end
 
